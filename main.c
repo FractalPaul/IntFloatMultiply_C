@@ -59,12 +59,12 @@ void calcOddBallSamples()
     char *header = produceHeader();
     printf("%s\n", header);
 
-    printf("%s\n", calcMultiplications(3055, 6111));
-    printf("%s\n", calcMultiplications(2401, 6997));
-    printf("%s\n", calcMultiplications(3055, 6995));
-    printf("%s\n", calcMultiplications(2399, 6995));
-    printf("%s\n", calcMultiplications(2797, 5999));
     printf("%s\n", calcMultiplications(1683, 9971));
+    printf("%s\n", calcMultiplications(2399, 6995));
+    printf("%s\n", calcMultiplications(2401, 6997));
+    printf("%s\n", calcMultiplications(2797, 5999));
+    printf("%s\n", calcMultiplications(3055, 6111));
+    printf("%s\n", calcMultiplications(3055, 6995));
 }
 
 void calcRange(int maxVal)
