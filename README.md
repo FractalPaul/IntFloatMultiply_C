@@ -24,6 +24,6 @@ To perform the Odd ball calculation execute without any parameters.
 ```terminal
 $ ./main
 ```
-The Odd Ball calculation is a predetermined set of numbers that cause an error.  These are set to compare to other platforms and languages such as C or Rust.
+The Odd Ball calculation is a predetermined set of numbers that cause an error.  These are set to compare to other platforms and languages such as C# or Rust.
 Odd ball calulations...
 ![IntFloat Odd Ball C Lang](https://github.com/user-attachments/assets/779fa0e3-61d6-49cd-97f5-01f03e8057ef)
